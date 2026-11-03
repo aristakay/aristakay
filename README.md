@@ -103,7 +103,7 @@ I'm particularly interested in:
 
 ## Connect With Me
 
-* **GitHub:** [@aristakay]([https://github.com/aristakay])
+* **GitHub:** [aristakay](https://github.com/aristakay)
 
 ---
 
